@@ -1,0 +1,15 @@
+h3{
+	background-color:blue;
+	color: yellowgreen;
+}
+
+.head1{
+	background-color: yellowgreen;
+	color: blue;
+}
+.head2{
+	border: 5px solid greenyellow;
+}
+#head3{
+	font-size: 30px;
+}
